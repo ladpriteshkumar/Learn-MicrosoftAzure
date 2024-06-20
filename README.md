@@ -16,3 +16,7 @@ Similary you can search for **Static Web Apps**
 ![](Images/static_webApplication_add_custom_domain.png)
 
 we need to buy domain name before adding it to the custom domains for static web apps
+
+beow is screenshot of add Custome domain to Static web App
+
+![Add Custome Domain](Images/AddCustomeDomainToStaticWebApp.png)
